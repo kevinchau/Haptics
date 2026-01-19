@@ -1,6 +1,7 @@
 # Haptics
 
 iPhone app to test the different haptic patterns in iOS.
+<img width="660" height="1434" alt="IMG_2601" src="https://github.com/user-attachments/assets/9b49aa85-1063-4651-9662-8885cf0b8759" />
 
 ## Haptic Types
 
